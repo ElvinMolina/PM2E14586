@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PM2E14586</string>
+
+    <string-array name="paises">
+        <item>Seleccione</item>
+        <item>Honduras</item>
+        <item>Mexico</item>
+        <item>Chile</item>
+        <item>USA</item>
+    </string-array>
+</resources>
