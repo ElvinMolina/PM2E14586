@@ -4,8 +4,8 @@
     <string-array name="paises">
         <item>Seleccione</item>
         <item>Honduras</item>
-        <item>Mexico</item>
-        <item>Chile</item>
-        <item>USA</item>
+        <item>Costa Rica</item>
+        <item>Guatemala</item>
+        <item>El Salvador</item>
     </string-array>
 </resources>
